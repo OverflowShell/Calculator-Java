@@ -10,5 +10,4 @@ Compilación:
 
 Ejecución:
 
-
-java calculadora
+-java calculadora
